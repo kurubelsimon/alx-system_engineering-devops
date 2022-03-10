@@ -1,1 +1,1 @@
-my read me file will be describing what each script is doing
+my  read me file is describing what each script is doing
