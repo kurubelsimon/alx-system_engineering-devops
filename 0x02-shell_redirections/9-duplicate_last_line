@@ -1,2 +1,2 @@
 #!/bin/bash
-t >9-duplicate_last_line
+t > 9-duplicate_last_line
