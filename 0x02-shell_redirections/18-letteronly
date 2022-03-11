@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v '^[[:alpha:]]' testfile
+grep -P '^[^\s]+\s+[A-Z]'
